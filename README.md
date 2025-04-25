@@ -62,7 +62,3 @@ You can modify the following in the code:
 - Date range for papers
 - Number of papers to fetch
 - Email subject and formatting
-
-## License
-
-MIT License 
